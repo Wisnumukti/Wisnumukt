@@ -4,8 +4,8 @@
 
 <div class="starter-template">
 
-<h1>About</h1>
-<p>Ini adalah halaman about</p>
+<h1>home</h1>
+<p>Ini adalah halaman homet</p>
 
 </div>
 @endsection
